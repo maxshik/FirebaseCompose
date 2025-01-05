@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901049838947",
+    "firebase_url": "https://technologyfb-25bf0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "technologyfb-25bf0",
+    "storage_bucket": "technologyfb-25bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901049838947:android:a7f17d5716c3d6b5797756",
+        "android_client_info": {
+          "package_name": "com.example.firebasecompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901049838947-6drrvnqlpm1b5d1bd8ekihtf4qmg655b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecompose",
+            "certificate_hash": "98b595a865fe1f8aa1a8c2fd4341f682afe54c72"
+          }
+        },
+        {
+          "client_id": "901049838947-k7ec6t2h8q25d7191i9pebhcrlv915f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8x2Xl16sbkbtKL5izYHnK5p3Llm2ggUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901049838947-k7ec6t2h8q25d7191i9pebhcrlv915f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
